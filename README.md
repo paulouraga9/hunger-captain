@@ -13,7 +13,7 @@ This is an online food menu service for Hunger Captain. When you visit the resta
 
 Check out [FRONTEND LIVE DEMO](https://hunger-captain-frontend.paulouraga9.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://sd-backend.rabeelsadiq.repl.co/) here!!
+Check out [API LIVE DEMO](https://hunger-captain-backend.paulouraga9.repl.co) here!!
 
 ## ScreenShot
 ![Screenshot 2022-06-29 at 12 50 00 PM](https://user-images.githubusercontent.com/101166793/176389311-caae6829-d4cf-493c-a5a9-132cdf8a4648.png)
